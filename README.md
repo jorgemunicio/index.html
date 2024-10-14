@@ -1,36 +1,5 @@
-# index.html
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enlaces sobre fuentes de alimentación y factores de forma</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        h1 {
-            color: #333;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
     <h1>WEBGRAFÍA</h1>
     <ul>
         <li><a href="https://ecciarquitecturadehardwarecr.wordpress.com/2016/09/06/fuente-de-poder/">Fuente de poder</a></li>
